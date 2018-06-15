@@ -28,7 +28,16 @@ body {
 }
 .heading {
   height: 100px;
+  width: 600px;
   padding: 20px;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+  color: white;
+  border-color: white;
+}
+.navigation {
+  height: 50px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40;
 }
