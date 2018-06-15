@@ -8,7 +8,7 @@ font-family: 'Montserrat', sans-serif*/
 body {
   background: #eee;
 }
-#bg-image {
+.bg-image {
   background-image: url('../img/giraffes.jpg')
   background-size: cover;
   background-position: center center;
