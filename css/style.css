@@ -1,14 +1,7 @@
-/*font-family: 'Abel', sans-serif;
-font-family: 'Patua One', cursive;
-font-family: 'Montserrat', sans-serif*/
-*{
-  padding: 0;
-  margin: 0;
-}
 body {
   background: #eee;
 }
-.bg-image {
+.hero {
   background-image: url('../img/giraffes.jpg')
   background-size: cover;
   background-position: center center;
