@@ -1,0 +1,15 @@
+/*font-family: 'Abel', sans-serif;
+font-family: 'Patua One', cursive;
+font-family: 'Montserrat', sans-serif*/
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #eee;
+}
+.bg-image {
+  width: 100%;
+  height: 600px;
+  background: 
+}
