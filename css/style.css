@@ -1,8 +1,5 @@
-body {
-  background: #eee;
-}
 .hero {
-  background-image: url('../img/giraffes.jpg')
+  background-image: url('../img/giraffes.jpg');
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -10,4 +7,7 @@ body {
   bottom: 0;
   height: 100vh;
   z-index: -10;
+}
+body {
+  background: #eee;
 }
