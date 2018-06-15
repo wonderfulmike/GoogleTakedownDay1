@@ -8,8 +8,13 @@ font-family: 'Montserrat', sans-serif*/
 body {
   background: #eee;
 }
-.bg-image {
-  width: 100%;
-  height: 600px;
-  background: img/giraffes.jpg
+#bg-image {
+  background-image: url('../imggiraffes.jpg')
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  z-index: -10;
 }
