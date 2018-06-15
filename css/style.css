@@ -28,3 +28,6 @@ body {
   font-size: 70;
   float: center;
 }
+.wrapper {
+  width: 600px;
+}
