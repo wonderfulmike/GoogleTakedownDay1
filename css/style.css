@@ -29,7 +29,12 @@ body {
   float: center;
 }
 .wrapper {
-  width: 600px;
+  width: auto;
   margin: 0 auto 0 auto;
-
+}
+.name {
+  height: 100px;
+  background:#eee;
+  padding: 20px;
+  text-align: center;
 }
