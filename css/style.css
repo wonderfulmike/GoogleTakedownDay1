@@ -21,3 +21,10 @@ body {
   width: 100%;
   z-index: -5;
 }
+.name {
+  color: white;
+  font-family: 'Lobster', cursive;
+
+  font-size: 70;
+  float: center;
+}
