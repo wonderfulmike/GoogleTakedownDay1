@@ -9,7 +9,7 @@ body {
   background: #eee;
 }
 #bg-image {
-  background-image: url('../imggiraffes.jpg')
+  background-image: url('../img/giraffes.jpg')
   background-size: cover;
   background-position: center center;
   position: relative;
