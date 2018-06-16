@@ -19,6 +19,7 @@
   width: 100%;
   z-index: -5;
   margin: 0;
+  back
 }
 body {
   margin: 0;
@@ -30,14 +31,22 @@ body {
   height: 100px;
   width: 600px;
   padding: 20px;
-  text-align: center;
+  text-align: left;
   font-family: 'Montserrat', sans-serif;
   color: white;
   border-color: white;
+  font-size: 50;
 }
 .navigation {
   height: 50px;
   color: white;
   font-family: 'Montserrat', sans-serif;
   font-size: 40;
+}
+.main-content {
+  min-height: 400px;
+  width: 500px;
+  float: left;
+  text-size: 35;
+  text color: white;
 }
