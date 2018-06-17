@@ -67,3 +67,10 @@ nav>ul> {
   position: absolute;
   right: 0;
 }
+.btn {
+  width: 130px;
+  height: 40px;
+  font-size: 16px;
+  background: #34f315;
+  
+}
