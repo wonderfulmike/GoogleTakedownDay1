@@ -25,7 +25,10 @@ body {
   margin: 0;
 }
 .wrapper {
-  height: auto;
+  width: 960px;
+  height: 600px;
+  position: relative;
+  margin: 0 auto;
 }
 .heading {
   height: 100px;
@@ -38,23 +41,7 @@ body {
   font-size: 35;
   float: right;
 }
-.navigation {
-  height: 50px;
-  color: white;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 40;
-}
-.main-content {
-  min-height: 400px;
-  width: 500px;
-  float: left;
-  text-size: 35;
-  text color: white;
-}
-nav>ul>li> {
-  list-style: none;
-  float: left;
-}
+
 nav>ul>li>a {
   text-decoration: none;
   color: #fff;
@@ -62,15 +49,24 @@ nav>ul>li>a {
   font-weight: bold;
   font-family: monospace;
   padding: 0 20px 0 20px;
+  float: left;
+  list-style: none;
 }
 nav>ul> {
   position: absolute;
   right: 0;
+  float: left;
 }
 .btn {
   width: 130px;
   height: 40px;
   font-size: 16px;
   background: #34f315;
-  
+  font-weight: bold;
+  font-family: monospace;
+  border: none;
+  border-radius: 50px;
+  color: #fff;
+
+
 }
