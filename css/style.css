@@ -35,7 +35,8 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: white;
   border-color: white;
-  font-size: 50;
+  font-size: 35;
+  float: right;
 }
 .navigation {
   height: 50px;
@@ -49,4 +50,20 @@ body {
   float: left;
   text-size: 35;
   text color: white;
+}
+nav>ul>li> {
+  list-style: none;
+  float: left;
+}
+nav>ul>li>a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: monospace;
+  padding: 0 20px 0 20px;
+}
+nav>ul> {
+  position: absolute;
+  right: 0;
 }
