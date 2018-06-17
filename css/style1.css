@@ -25,6 +25,8 @@ body {
 .wrapper {
   width: 600px;
   margin: 0 auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
 }
 .heading {
   height: 100px;
